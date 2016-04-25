@@ -1,5 +1,4 @@
 
-Hi,
+Welcome to Alannah github, 
 
-This git repo contains samples of my Maya work. 
-
+Below contains a few examples of my Maya work. 
